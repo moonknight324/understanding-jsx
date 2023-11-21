@@ -1,0 +1,18 @@
+/* add your styles here */
+.name{
+    text-align: center;
+    font-size: 30px;
+}
+.photo img{
+   display: flex;
+   flex-direction: column;
+   width: 500px;
+   height: 500px;
+   padding: 10px;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+}
